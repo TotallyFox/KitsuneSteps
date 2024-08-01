@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PhysicalAtk
+  - MagicAtk
+  - EnemyPhys
+  - EnemyAtk
+  - EnemyRange
+  - BossPhys
+  - BossAtk
+  - BossRange
+  - Mint
+  - FoxTail
+  - SpiceComb
+  - MoonlitBerry
+  - MintPlant
+  - FoxTailPlant
+  - SpiceCombPlant
+  - MoonlitBerryPlant
+  - Agro
+  - Dash
+  - Shoot
+  - Shrine
+  - Hazard
+  - Ground
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Hazard
+  - Pickup
+  - Plant
+  - Enemy
+  - Shrine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG3
+    uniqueID: 8156845
+    locked: 0
+  - name: BG2
+    uniqueID: 1825657023
+    locked: 0
+  - name: BG1
+    uniqueID: 981722183
+    locked: 0
+  - name: Misc
+    uniqueID: 3666758101
+    locked: 0
+  - name: Layer 2
+    uniqueID: 2159799847
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Luca
+    uniqueID: 909002799
+    locked: 0
+  - name: Fade
+    uniqueID: 1875477097
+    locked: 0
